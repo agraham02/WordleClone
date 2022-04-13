@@ -22,7 +22,7 @@ The main goal of this project is to make a working Wordle Clone for personal edu
 
 ## Credits
 * [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
-    * Specific Video Link: []()
+    * Specific Video Link: [How To Create A 7 Figure Business Idea In One Hour](https://www.youtube.com/watch?v=Wak7iN4JZzU)
 
 ## License
 * This product was made by [Ahmad Graham](https://linktr.ee/AhmadG_02) following a tutorial by [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw).
